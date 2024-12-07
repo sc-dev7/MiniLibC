@@ -26,8 +26,3 @@ Each function must behave identically to its standard `libc` counterpart.
 
 ---
 
-## USAGE  
-### Compilation:  
-Create an archive of your implemented functions:  
-```bash
-make
